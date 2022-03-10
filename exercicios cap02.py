@@ -17,14 +17,14 @@
 # 42 ÷ 30
 # (94 + 2) × 6 - 1
 
-#a = 10 + (20*30)
-#print(a)
+a = 10 + (20*30)
+print(a)
 
-#a = 42/30
-#print(a)
+a = 42/30
+print(a)
 
-#a = ((94+2)*6)-1
-#print(a)
+a = ((94+2)*6)-1
+print(a)
 
 #cap. 02-02
 
@@ -33,36 +33,36 @@
 # 10 % 3 * 10 ** 2 + 1 - 10 * 4 / 2
 # Tente resolver o mesmo cálculo, usando apenas lápis e papel. Observe como a prioridade das operações é importante.
 
-#a = ((10%3)*(10**2)+1-(10*4/2))
-#print(a)
+a = ((10%3)*(10**2)+1-(10*4/2))
+print(a)
 
 #cap. 02-03
 
 # Faça um programa que exiba seu nome na tela.
 
-#print("Lucas Krause")
+print("Lucas Krause")
 
 #cap. 02-04
 
 # Escreva um programa que exiba o resultado de 2a × 3b, em que a vale 3 e b vale 5.
 
-#a = 3
-#b = 5
-#print(2*a*3*b)
+a = 3
+b = 5
+print(2*a*3*b)
 
 #cap. 02-05
 
 # Escreva um programa que calcule a soma de três variáveis e imprima o resultado na tela.
 
-#a = 1
-#b = 2
-#c = 3
-#print(a+b+c)
+a = 1
+b = 2
+c = 3
+print(a+b+c)
 
 #cap.02-06
 
 # Modifique o Programa 2.2, de forma que ele calcule um aumento de 15% para um salário de R$ 750.
 
-#aumento = 115/100
-#salario = 750
-#print(salario*aumento)
+aumento = 115/100
+salario = 750
+print(salario*aumento)
